@@ -1,0 +1,1 @@
+console.log("Ahora dentro del archivo .js")
